@@ -2818,8 +2818,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D30D94A70100DD942E /* ConfigRelaunchDebug.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				CODE_SIGN_IDENTITY = "My Dummy Certificate";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "My Dummy Certificate";
 				CODE_SIGN_STYLE = Manual;
 			};
 			name = Coverage;
@@ -2914,8 +2914,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D30D94A70100DD942E /* ConfigRelaunchDebug.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				CODE_SIGN_IDENTITY = "My Dummy Certificate";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "My Dummy Certificate";
 				CODE_SIGN_STYLE = Manual;
 			};
 			name = Debug;
@@ -2924,8 +2924,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D40D94A70100DD942E /* ConfigRelaunchRelease.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				CODE_SIGN_IDENTITY = "My Dummy Certificate";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "My Dummy Certificate";
 				CODE_SIGN_STYLE = Manual;
 			};
 			name = Release;
@@ -3087,8 +3087,8 @@
 			baseConfigurationReference = 722954C81D04E89500ECF9CA /* ConfigFileop.xcconfig */;
 			buildSettings = {
 				CODE_SIGNING_ALLOWED = YES;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				CODE_SIGN_IDENTITY = "My Dummy Certificate";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "My Dummy Certificate";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = "";
@@ -3105,8 +3105,8 @@
 			baseConfigurationReference = 722954C81D04E89500ECF9CA /* ConfigFileop.xcconfig */;
 			buildSettings = {
 				CODE_SIGNING_ALLOWED = YES;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				CODE_SIGN_IDENTITY = "My Dummy Certificate";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "My Dummy Certificate";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = "";
@@ -3123,8 +3123,8 @@
 			baseConfigurationReference = 722954C81D04E89500ECF9CA /* ConfigFileop.xcconfig */;
 			buildSettings = {
 				CODE_SIGNING_ALLOWED = YES;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				CODE_SIGN_IDENTITY = "My Dummy Certificate";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "My Dummy Certificate";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = "";
