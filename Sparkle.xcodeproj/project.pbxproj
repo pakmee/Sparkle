@@ -2818,6 +2818,9 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D30D94A70100DD942E /* ConfigRelaunchDebug.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				CODE_SIGN_STYLE = Manual;
 			};
 			name = Coverage;
 		};
@@ -2911,6 +2914,9 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D30D94A70100DD942E /* ConfigRelaunchDebug.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				CODE_SIGN_STYLE = Manual;
 			};
 			name = Debug;
 		};
@@ -2918,6 +2924,9 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941D40D94A70100DD942E /* ConfigRelaunchRelease.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				CODE_SIGN_STYLE = Manual;
 			};
 			name = Release;
 		};
@@ -3078,12 +3087,13 @@
 			baseConfigurationReference = 722954C81D04E89500ECF9CA /* ConfigFileop.xcconfig */;
 			buildSettings = {
 				CODE_SIGNING_ALLOWED = YES;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XKJZUB2UM5;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = "$(SRCROOT)/Sparkle/Autoupdate/Autoupdate-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3095,12 +3105,13 @@
 			baseConfigurationReference = 722954C81D04E89500ECF9CA /* ConfigFileop.xcconfig */;
 			buildSettings = {
 				CODE_SIGNING_ALLOWED = YES;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XKJZUB2UM5;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = "$(SRCROOT)/Sparkle/Autoupdate/Autoupdate-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3112,12 +3123,13 @@
 			baseConfigurationReference = 722954C81D04E89500ECF9CA /* ConfigFileop.xcconfig */;
 			buildSettings = {
 				CODE_SIGNING_ALLOWED = YES;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "3rd Party Mac Developer Installer: Marvel Prototyping LTD (7C95EP5VB7)";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XKJZUB2UM5;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = "$(SRCROOT)/Sparkle/Autoupdate/Autoupdate-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
