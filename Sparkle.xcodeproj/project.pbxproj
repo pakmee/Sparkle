@@ -3086,7 +3086,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 722954C81D04E89500ECF9CA /* ConfigFileop.xcconfig */;
 			buildSettings = {
-				CODE_SIGNING_ALLOWED = "";
+				CODE_SIGNING_ALLOWED = YES;
 				CODE_SIGN_IDENTITY = "My Dummy Certificate";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "My Dummy Certificate";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
@@ -3104,7 +3104,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 722954C81D04E89500ECF9CA /* ConfigFileop.xcconfig */;
 			buildSettings = {
-				CODE_SIGNING_ALLOWED = "";
+				CODE_SIGNING_ALLOWED = YES;
 				CODE_SIGN_IDENTITY = "My Dummy Certificate";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "My Dummy Certificate";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
@@ -3122,7 +3122,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 722954C81D04E89500ECF9CA /* ConfigFileop.xcconfig */;
 			buildSettings = {
-				CODE_SIGNING_ALLOWED = "";
+				CODE_SIGNING_ALLOWED = YES;
 				CODE_SIGN_IDENTITY = "My Dummy Certificate";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "My Dummy Certificate";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
