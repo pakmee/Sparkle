@@ -3150,6 +3150,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = EA4311C9229D614300A5503D /* ed25519-Debug.xcconfig */;
 			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 			};
 			name = Debug;
 		};
@@ -3157,6 +3158,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = EA4311C9229D614300A5503D /* ed25519-Debug.xcconfig */;
 			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 			};
 			name = Coverage;
 		};
@@ -3164,6 +3166,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = EA4311C8229D613B00A5503D /* ed25519-Release.xcconfig */;
 			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 			};
 			name = Release;
 		};
